@@ -1,0 +1,16 @@
+{
+    "name": "NuoYan.Layout",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6815b762966851d4aa032a899a0f6b01"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
